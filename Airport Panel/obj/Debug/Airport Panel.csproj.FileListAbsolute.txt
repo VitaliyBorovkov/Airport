@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Airport Panel\Airport Panel\obj\Debug\Airport Panel.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Airport Panel\Airport Panel\obj\Debug\Airport Panel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Airport Panel\Airport Panel\obj\Debug\Airport Panel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Airport Panel\Airport Panel\bin\Debug\Airport Panel.exe.config
+C:\Users\Admin\source\repos\Airport Panel\Airport Panel\bin\Debug\Airport Panel.exe
+C:\Users\Admin\source\repos\Airport Panel\Airport Panel\bin\Debug\Airport Panel.pdb
+C:\Users\Admin\source\repos\Airport Panel\Airport Panel\obj\Debug\Airport Panel.exe
+C:\Users\Admin\source\repos\Airport Panel\Airport Panel\obj\Debug\Airport Panel.pdb
+C:\Users\Admin\source\repos\Airport Panel\Airport Panel\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\Airport Panel\Airport Panel\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\source\repos\Airport Panel\Airport Panel\obj\Debug\Airport Panel.csproj.CopyComplete
